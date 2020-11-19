@@ -1,0 +1,13 @@
+-II:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Build
+-II:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Source/modules/highgui
+-II:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Build/modules/highgui
+-D__OPENCV_BUILD=1
+-D_USE_MATH_DEFINES
+-D__STDC_CONSTANT_MACROS
+-D__STDC_LIMIT_MACROS
+-D__STDC_FORMAT_MACROS
+-DHAVE_WEBP
+-DWIN32
+-o
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Build/modules/highgui/src/moc_window_QT.cpp
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Source/modules/highgui/src/window_QT.h

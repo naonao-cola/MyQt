@@ -1,0 +1,14 @@
+# Package Information for pkg-config
+
+prefix=I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Build/install
+exec_prefix=${prefix}
+libdir=${exec_prefix}/x86/mingw/lib
+includedir_old=${prefix}/include/opencv
+includedir_new=${prefix}/include
+
+Name: OpenCV
+Description: Open Source Computer Vision Library
+Version: 3.4.3
+Libs: -L${exec_prefix}/x86/mingw/lib -lopencv_stitching343 -lopencv_superres343 -lopencv_videostab343 -lopencv_aruco343 -lopencv_bgsegm343 -lopencv_bioinspired343 -lopencv_ccalib343 -lopencv_cvv343 -lopencv_dnn_objdetect343 -lopencv_dpm343 -lopencv_face343 -lopencv_photo343 -lopencv_fuzzy343 -lopencv_hfs343 -lopencv_img_hash343 -lopencv_line_descriptor343 -lopencv_optflow343 -lopencv_reg343 -lopencv_rgbd343 -lopencv_saliency343 -lopencv_stereo343 -lopencv_structured_light343 -lopencv_phase_unwrapping343 -lopencv_surface_matching343 -lopencv_tracking343 -lopencv_datasets343 -lopencv_text343 -lopencv_dnn343 -lopencv_plot343 -lopencv_xfeatures2d343 -lopencv_shape343 -lopencv_video343 -lopencv_ml343 -lopencv_ximgproc343 -lopencv_calib3d343 -lopencv_features2d343 -lopencv_highgui343 -lopencv_videoio343 -lopencv_flann343 -lopencv_xobjdetect343 -lopencv_imgcodecs343 -lopencv_objdetect343 -lopencv_xphoto343 -lopencv_imgproc343 -lopencv_core343
+Libs.private: -lopengl32 -lglu32
+Cflags: -I${includedir_old} -I${includedir_new}

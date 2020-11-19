@@ -1,0 +1,68 @@
+# Target labels
+ Extra
+ opencv_aruco
+ Module
+# Source files and their labels
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/aruco/include/opencv2/aruco.hpp
+ Extra
+ opencv_aruco
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/aruco/include/opencv2/aruco/charuco.hpp
+ Extra
+ opencv_aruco
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/aruco/include/opencv2/aruco/dictionary.hpp
+ Extra
+ opencv_aruco
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/aruco/src/apriltag_quad_thresh.cpp
+ Extra
+ opencv_aruco
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/aruco/src/aruco.cpp
+ Extra
+ opencv_aruco
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/aruco/src/charuco.cpp
+ Extra
+ opencv_aruco
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/aruco/src/dictionary.cpp
+ Extra
+ opencv_aruco
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/aruco/src/zmaxheap.cpp
+ Extra
+ opencv_aruco
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/aruco/src/apriltag_quad_thresh.hpp
+ Extra
+ opencv_aruco
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/aruco/src/precomp.hpp
+ Extra
+ opencv_aruco
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/aruco/src/predefined_dictionaries.hpp
+ Extra
+ opencv_aruco
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/aruco/src/predefined_dictionaries_apriltag.hpp
+ Extra
+ opencv_aruco
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/aruco/src/unionfind.hpp
+ Extra
+ opencv_aruco
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/aruco/src/zarray.hpp
+ Extra
+ opencv_aruco
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/aruco/src/zmaxheap.hpp
+ Extra
+ opencv_aruco
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Build/cvconfig.h
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Build/opencv2/opencv_modules.hpp
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Build/modules/aruco/vs_version.rc

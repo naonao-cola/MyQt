@@ -1,0 +1,44 @@
+# Target labels
+ Extra
+ opencv_ccalib
+ Module
+# Source files and their labels
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/ccalib/include/opencv2/ccalib.hpp
+ Extra
+ opencv_ccalib
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/ccalib/include/opencv2/ccalib/multicalib.hpp
+ Extra
+ opencv_ccalib
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/ccalib/include/opencv2/ccalib/omnidir.hpp
+ Extra
+ opencv_ccalib
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/ccalib/include/opencv2/ccalib/randpattern.hpp
+ Extra
+ opencv_ccalib
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/ccalib/src/ccalib.cpp
+ Extra
+ opencv_ccalib
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/ccalib/src/multicalib.cpp
+ Extra
+ opencv_ccalib
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/ccalib/src/omnidir.cpp
+ Extra
+ opencv_ccalib
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/ccalib/src/randpattern.cpp
+ Extra
+ opencv_ccalib
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/ccalib/src/precomp.hpp
+ Extra
+ opencv_ccalib
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Build/cvconfig.h
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Build/opencv2/opencv_modules.hpp
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Build/modules/ccalib/vs_version.rc

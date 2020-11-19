@@ -1,0 +1,123 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/text/include/opencv2/text.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_text",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/text/include/opencv2/text/erfilter.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_text",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/text/include/opencv2/text/ocr.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_text",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/text/include/opencv2/text/textDetector.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_text",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/text/src/erfilter.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_text",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/text/src/ocr_beamsearch_decoder.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_text",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/text/src/ocr_hmm_decoder.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_text",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/text/src/ocr_holistic.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_text",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/text/src/ocr_tesseract.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_text",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/text/src/text_detectorCNN.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_text",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/text/src/precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_text",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Build/cvconfig.h"
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Build/opencv2/opencv_modules.hpp"
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Build/modules/text/vs_version.rc"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_text",
+			"Module"
+		],
+		"name" : "opencv_text"
+	}
+}

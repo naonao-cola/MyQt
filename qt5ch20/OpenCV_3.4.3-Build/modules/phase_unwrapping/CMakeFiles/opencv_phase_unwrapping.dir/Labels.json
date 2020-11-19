@@ -1,0 +1,69 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/phase_unwrapping/include/opencv2/phase_unwrapping.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_phase_unwrapping",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/phase_unwrapping/include/opencv2/phase_unwrapping/histogramphaseunwrapping.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_phase_unwrapping",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/phase_unwrapping/include/opencv2/phase_unwrapping/phase_unwrapping.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_phase_unwrapping",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/phase_unwrapping/src/histogramphaseunwrapping.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_phase_unwrapping",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/phase_unwrapping/src/precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_phase_unwrapping",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Build/cvconfig.h"
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Build/opencv2/opencv_modules.hpp"
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Build/modules/phase_unwrapping/vs_version.rc"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_phase_unwrapping",
+			"Module"
+		],
+		"name" : "opencv_phase_unwrapping"
+	}
+}

@@ -1,0 +1,114 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/line_descriptor/include/opencv2/line_descriptor.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_line_descriptor",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/line_descriptor/include/opencv2/line_descriptor/descriptor.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_line_descriptor",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/line_descriptor/src/LSDDetector.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_line_descriptor",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/line_descriptor/src/binary_descriptor.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_line_descriptor",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/line_descriptor/src/binary_descriptor_matcher.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_line_descriptor",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/line_descriptor/src/draw.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_line_descriptor",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/line_descriptor/src/bitarray.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_line_descriptor",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/line_descriptor/src/bitops.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_line_descriptor",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/line_descriptor/src/precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_line_descriptor",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/line_descriptor/src/types.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_line_descriptor",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Build/cvconfig.h"
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Build/opencv2/opencv_modules.hpp"
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Build/modules/line_descriptor/vs_version.rc"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_line_descriptor",
+			"Module"
+		],
+		"name" : "opencv_line_descriptor"
+	}
+}

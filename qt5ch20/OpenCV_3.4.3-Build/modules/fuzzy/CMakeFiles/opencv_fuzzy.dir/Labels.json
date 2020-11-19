@@ -1,0 +1,105 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/fuzzy/include/opencv2/fuzzy.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_fuzzy",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/fuzzy/include/opencv2/fuzzy/fuzzy_F0_math.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_fuzzy",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/fuzzy/include/opencv2/fuzzy/fuzzy_F1_math.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_fuzzy",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/fuzzy/include/opencv2/fuzzy/fuzzy_image.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_fuzzy",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/fuzzy/include/opencv2/fuzzy/types.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_fuzzy",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/fuzzy/src/fuzzy_F0_math.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_fuzzy",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/fuzzy/src/fuzzy_F1_math.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_fuzzy",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/fuzzy/src/fuzzy_image.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_fuzzy",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/fuzzy/src/precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_fuzzy",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Build/cvconfig.h"
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Build/opencv2/opencv_modules.hpp"
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Build/modules/fuzzy/vs_version.rc"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_fuzzy",
+			"Module"
+		],
+		"name" : "opencv_fuzzy"
+	}
+}

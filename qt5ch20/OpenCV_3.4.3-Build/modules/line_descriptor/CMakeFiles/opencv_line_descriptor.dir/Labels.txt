@@ -1,0 +1,48 @@
+# Target labels
+ Extra
+ opencv_line_descriptor
+ Module
+# Source files and their labels
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/line_descriptor/include/opencv2/line_descriptor.hpp
+ Extra
+ opencv_line_descriptor
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/line_descriptor/include/opencv2/line_descriptor/descriptor.hpp
+ Extra
+ opencv_line_descriptor
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/line_descriptor/src/LSDDetector.cpp
+ Extra
+ opencv_line_descriptor
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/line_descriptor/src/binary_descriptor.cpp
+ Extra
+ opencv_line_descriptor
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/line_descriptor/src/binary_descriptor_matcher.cpp
+ Extra
+ opencv_line_descriptor
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/line_descriptor/src/draw.cpp
+ Extra
+ opencv_line_descriptor
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/line_descriptor/src/bitarray.hpp
+ Extra
+ opencv_line_descriptor
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/line_descriptor/src/bitops.hpp
+ Extra
+ opencv_line_descriptor
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/line_descriptor/src/precomp.hpp
+ Extra
+ opencv_line_descriptor
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/line_descriptor/src/types.hpp
+ Extra
+ opencv_line_descriptor
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Build/cvconfig.h
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Build/opencv2/opencv_modules.hpp
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Build/modules/line_descriptor/vs_version.rc

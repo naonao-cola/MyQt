@@ -1,0 +1,9 @@
+//user-defined headers
+#include "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Source/modules/flann/misc/python/pyopencv_flann.hpp"
+#include "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Source/modules/ml/misc/python/pyopencv_ml.hpp"
+#include "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Source/modules/dnn/misc/python/pyopencv_dnn.hpp"
+#include "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Source/modules/videoio/misc/python/pyopencv_videoio.hpp"
+#include "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Source/modules/features2d/misc/python/pyopencv_features2d.hpp"
+#include "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/line_descriptor/misc/python/pyopencv_LSDDetector.hpp"
+#include "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/rgbd/misc/python/pyopencv_linemod.hpp"
+#include "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Source/modules/stitching/misc/python/pyopencv_stitching.hpp"

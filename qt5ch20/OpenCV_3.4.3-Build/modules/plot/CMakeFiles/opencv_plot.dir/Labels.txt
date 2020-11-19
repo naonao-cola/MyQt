@@ -1,0 +1,20 @@
+# Target labels
+ Extra
+ opencv_plot
+ Module
+# Source files and their labels
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/plot/include/opencv2/plot.hpp
+ Extra
+ opencv_plot
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/plot/src/plot.cpp
+ Extra
+ opencv_plot
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/plot/src/precomp.hpp
+ Extra
+ opencv_plot
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Build/cvconfig.h
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Build/opencv2/opencv_modules.hpp
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Build/modules/plot/vs_version.rc

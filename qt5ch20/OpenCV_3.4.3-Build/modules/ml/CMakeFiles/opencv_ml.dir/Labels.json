@@ -1,0 +1,204 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Source/modules/ml/include/opencv2/ml.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_ml",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Source/modules/ml/include/opencv2/ml/ml.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_ml",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Source/modules/ml/include/opencv2/ml/ml.inl.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_ml",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Source/modules/ml/src/ann_mlp.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_ml",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Source/modules/ml/src/boost.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_ml",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Source/modules/ml/src/data.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_ml",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Source/modules/ml/src/em.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_ml",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Source/modules/ml/src/gbt.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_ml",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Source/modules/ml/src/inner_functions.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_ml",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Source/modules/ml/src/kdtree.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_ml",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Source/modules/ml/src/knearest.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_ml",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Source/modules/ml/src/lr.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_ml",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Source/modules/ml/src/nbayes.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_ml",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Source/modules/ml/src/rtrees.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_ml",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Source/modules/ml/src/svm.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_ml",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Source/modules/ml/src/svmsgd.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_ml",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Source/modules/ml/src/testset.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_ml",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Source/modules/ml/src/tree.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_ml",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Source/modules/ml/src/kdtree.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_ml",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Source/modules/ml/src/precomp.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_ml",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Build/cvconfig.h"
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Build/opencv2/opencv_modules.hpp"
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Build/modules/ml/vs_version.rc"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Main",
+			"opencv_ml",
+			"Module"
+		],
+		"name" : "opencv_ml"
+	}
+}

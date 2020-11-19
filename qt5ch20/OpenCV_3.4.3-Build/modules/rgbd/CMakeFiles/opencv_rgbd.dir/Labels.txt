@@ -1,0 +1,60 @@
+# Target labels
+ Extra
+ opencv_rgbd
+ Module
+# Source files and their labels
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/rgbd/include/opencv2/rgbd.hpp
+ Extra
+ opencv_rgbd
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/rgbd/include/opencv2/rgbd/linemod.hpp
+ Extra
+ opencv_rgbd
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/rgbd/src/depth_cleaner.cpp
+ Extra
+ opencv_rgbd
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/rgbd/src/depth_registration.cpp
+ Extra
+ opencv_rgbd
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/rgbd/src/depth_to_3d.cpp
+ Extra
+ opencv_rgbd
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/rgbd/src/linemod.cpp
+ Extra
+ opencv_rgbd
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/rgbd/src/normal.cpp
+ Extra
+ opencv_rgbd
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/rgbd/src/odometry.cpp
+ Extra
+ opencv_rgbd
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/rgbd/src/plane.cpp
+ Extra
+ opencv_rgbd
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/rgbd/src/utils.cpp
+ Extra
+ opencv_rgbd
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/rgbd/src/depth_to_3d.h
+ Extra
+ opencv_rgbd
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/rgbd/src/precomp.hpp
+ Extra
+ opencv_rgbd
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/rgbd/src/utils.h
+ Extra
+ opencv_rgbd
+ Module
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Build/cvconfig.h
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Build/opencv2/opencv_modules.hpp
+I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Build/modules/rgbd/vs_version.rc

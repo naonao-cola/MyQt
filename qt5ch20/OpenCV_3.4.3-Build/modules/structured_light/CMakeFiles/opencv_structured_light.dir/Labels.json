@@ -1,0 +1,87 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/structured_light/include/opencv2/structured_light.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_structured_light",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/structured_light/include/opencv2/structured_light/graycodepattern.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_structured_light",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/structured_light/include/opencv2/structured_light/sinusoidalpattern.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_structured_light",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/structured_light/include/opencv2/structured_light/structured_light.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_structured_light",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/structured_light/src/graycodepattern.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_structured_light",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/structured_light/src/sinusoidalpattern.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_structured_light",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/Contrib_3.4.3-Source/modules/structured_light/src/precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_structured_light",
+				"Module"
+			]
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Build/cvconfig.h"
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Build/opencv2/opencv_modules.hpp"
+		},
+		{
+			"file" : "I:/charon/mydemo/measurement/MfcQt/QT/QT5/qt5ch20/OpenCV_3.4.3-Build/modules/structured_light/vs_version.rc"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_structured_light",
+			"Module"
+		],
+		"name" : "opencv_structured_light"
+	}
+}
